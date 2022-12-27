@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I have been a native mobile developer for over 10 years and have worked on the iOS, Android, and even Windows Phone platforms (yes, I know, it's a bit funny today😄). I am currently working on several projects using Flutter, but unfortunately I cannot share the code here.
+
+In addition to my skills in native mobile development, I also have solid experience in developing shell or python scripts to automate repetitive tasks. I find this to be very useful in optimizing workflow and saving time on repetitive tasks that would otherwise take a lot of time to execute manually.
+
+Feel free to contact me if you have any questions or if you want to know more about my background as a mobile developer.
+
 <!--
 **bouziane/bouziane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
