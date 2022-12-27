@@ -29,7 +29,7 @@ Feel free to contact me if you have any questions or if you want to know more ab
 
 ### Connect with me:
 
-[[My LinkedIn]](www.linkedin.com/in/bouziane-h)
+[My LinkedIn](https://www.linkedin.com/in/bouziane-h)
           
           
 
