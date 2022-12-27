@@ -24,6 +24,12 @@ Feel free to contact me if you have any questions or if you want to know more ab
 <img img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img img align="left" alt="swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img img align="left" alt="dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<br />
+<br />
+
+### Connect with me:
+<a href="www.linkedin.com/in/bouziane-h"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="image_description"/></a>
+
 
           
           
