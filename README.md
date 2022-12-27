@@ -30,11 +30,11 @@ Feel free to contact me if you have any questions or if you want to know more ab
 ### Connect with me:
 
 [[img_contact]](https://mikecodeur.com#gh-dark-mode-only)
-[[My LinkedIn]](www.linkedin.com/in/bouziane-h#gh-dark-mode-only)
+[[My LinkedIn]](https:/www.linkedin.com/in/bouziane-h#gh-dark-mode-only)
 [![img_contact]](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[My LinkedIn](www.linkedin.com/in/bouziane-h)
+[My LinkedIn](https://www.linkedin.com/in/bouziane-h)
 
           
           
