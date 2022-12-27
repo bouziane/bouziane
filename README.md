@@ -28,8 +28,10 @@ Feel free to contact me if you have any questions or if you want to know more ab
 <br />
 
 ### Connect with me:
-<a href="www.linkedin.com/in/bouziane-h"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="image_description"/></a>
 
+
+
+[My LinkedIn](www.linkedin.com/in/bouziane-h)
 
           
           
