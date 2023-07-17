@@ -6,7 +6,8 @@ I have been a native mobile developer for over 10 years, working on various plat
 To get a glimpse of my work, I have a portfolio website where you can see a preview. Simply visit the site by entering the following address:
 [My Portfolio](https://bhamzi.netlify.app/)
 
-In addition to my skills in native mobile development, I also have solid experience in developing shell or python scripts to automate repetitive tasks. I find this to be very useful in optimizing workflow and saving time on repetitive tasks that would otherwise take a lot of time to execute manually.
+In addition to my experience in automation via shell or python scripts, I implemented a CD/CI solution with GitLab, thus significantly improving the efficiency of my deployment and maintenance processes.
+Passionate and meticulous, I like to propose innovative solutions to meet the needs of users while offering an exceptional experience.
 
 Feel free to contact me if you have any questions or if you want to know more about my background as a mobile developer.
 
