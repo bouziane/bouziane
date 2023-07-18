@@ -9,7 +9,7 @@ To get a glimpse of my work, I have a portfolio website where you can see a prev
 In addition to my experience in automation via shell or python scripts, I implemented a CD/CI solution with GitLab, thus significantly improving the efficiency of my deployment and maintenance processes.
 Passionate and meticulous, I like to propose innovative solutions to meet the needs of users while offering an exceptional experience.
 
-Feel free to contact me if you have any questions or if you want to know more about my background as a mobile developer.
+If you need additional information, do not hesitate to contact me.
 
 ### Languages and Tools:
 
