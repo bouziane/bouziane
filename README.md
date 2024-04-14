@@ -1,13 +1,7 @@
-### Hi there 👋
+### Hi 👋
+Over a decade of experience as a native mobile developer, I have worked with iOS, Android, and yes, even Windows Phone remember that? 😄. Currently, I'm focusing on projects using Flutter. I've also honed my skills in automating processes with shell and Python scripts and set up a continuous deployment system using GitLab.
 
-
-I have been a native mobile developer for over 10 years, working on various platforms including iOS, Android, and even Windows Phone (yes, I know, it's a bit funny today 😄). Currently, I am actively involved in several projects utilizing Flutter. However, due to confidentiality concerns, I am unable to share the code here.
-
-To get a glimpse of my work, I have a portfolio website where you can see a preview. Simply visit the site by entering the following address:
-[My Portfolio](https://bhamzi.netlify.app/)
-
-In addition to my experience in automation via shell or python scripts, I implemented a CD/CI solution with GitLab, thus significantly improving the efficiency of my deployment and maintenance processes.
-Passionate and meticulous, I like to propose innovative solutions to meet the needs of users while offering an exceptional experience.
+To see  my past work, you can visit  my portfolio website just [here](https://bhamzi.fr).
 
 If you need additional information, do not hesitate to contact me.
 
