@@ -1,5 +1,7 @@
 ### Hi 👋
-Over a decade of experience as a native mobile developer, I have worked with iOS, Android, and yes, even Windows Phone remember that? 😄. Currently, I'm focusing on projects using Flutter. I've also honed my skills in automating processes with shell and Python scripts and set up a continuous deployment system using GitLab.
+Over a decade of experience as a native mobile developer, I have worked with iOS, Android, and yes, even Windows Phone remember that? 😄. 
+
+Currently, I'm focusing on projects using Flutter. I've also honed my skills in automating processes with shell and Python scripts and set up a continuous deployment system using GitLab.
 
 To see  my past work, you can visit  my portfolio website just [here](https://bhamzi.fr).
 
