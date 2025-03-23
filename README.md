@@ -30,7 +30,7 @@ If you need additional information, do not hesitate to contact me.
 
 ### Connect with me:
 
-[My LinkedIn](https://www.linkedin.com/in/bouziane-h)
+[My LinkedIn](https://www.linkedin.com/in/bhamzi)
           
           
 
